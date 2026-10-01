@@ -2,7 +2,6 @@
 
 This repository contains the source code for the study *"Physics-Calibrated Trajectory Forecasting for Climate-Resilient Data Center Operations: A Calibrated Hybrid Architecture"* (Massaoudi). It is released for reproducibility and contains **only source code**: no pre-generated tables, figures, trained checkpoints, or raw/processed data.
 
-The public URL remains [https://github.com/Mmassaoudi-cell/PC-TCN](https://github.com/Mmassaoudi-cell/PC-TCN); the proposed model in this release is **PC-TFN**.
 
 ## Overview
 
